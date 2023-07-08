@@ -62,20 +62,20 @@ ul li a {
 
 ul {
     list-style-position: inside;
-    text-align: center;
+    text-align: left;
 }
 
 ol li a{
     color: black;
     font-size: 20px;
-    text-align: center;
+    text-align: left;
     display: inline-block;
     margin: 5px auto;
 }
 
 ol {
     list-style-position: inside;
-    text-align: center;
+    text-align: left;
 }
 
 h3 {
